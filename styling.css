@@ -1,4 +1,4 @@
-{
+*{
     font-family: "Times New Roman", Times, serif;
 }
 
@@ -36,7 +36,7 @@ li a {
 }
 
 li a:hover {
-    background-color: black;
+    background-color: yellow;
     height: 25px;
     color: white;
 }
@@ -70,3 +70,48 @@ th {
     font-size: 50px;
     color: white;
 }
+
+#button {
+    
+    background-color:red;
+    color: white;
+    padding-bottom: 30px;
+    padding-left: 40px;
+    padding: 20px 15px 25px 40px;
+    margin: 50px 25px 0px 0px 
+}
+    #li-tag {
+        margin-top:  50px;
+        
+
+    }
+
+   th:hover {
+
+    background-color: aqua;
+   }
+tr:nth-child(even){
+
+    background-color: chartreuse;
+}
+tr :nth-child(odd){
+
+    background-color: deeppink;
+}
+
+#foto1:hover {
+
+    width: 200px;
+    height: 200px;
+    margin-left: 50PX;
+    margin-top: 600PX;
+}
+    
+#header {
+
+    margin: left 300px;
+    margin-top: 200px;
+
+}
+
+
